@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=yashkesharwani559&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h2 align="center">Software Engineer I · Cognizant · Pune, India</h2>
+<h2 align="center">Software Engineer · Cognizant · Pune, India</h2>
 
 <p align="center">
   I build dependable software and help make the systems behind it more reliable.<br>
@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-- 💻 Software Engineer I at **Cognizant**, working across infrastructure automation and reliable software delivery.
+- 💻 Software Engineer at **Cognizant**, working across infrastructure automation and reliable software delivery.
 - ☕ Interested in **Java, Spring Boot, backend engineering, and REST APIs**.
 - ☁️ Working with cloud and DevOps tooling, including **AWS, Azure DevOps, Linux, Docker, Kubernetes, Ansible, and Terraform**.
 - 🧠 Solved **700+ LeetCode problems** and keep strengthening my data structures, algorithms, and problem-solving skills.
