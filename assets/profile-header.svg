@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Yash Kesharwani — Software Engineer I</title>
+  <desc id="desc">A deep navy and violet gradient banner with a software engineering title and Java, Spring Boot, Cloud and DevOps specialties.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#171b3a"/>
+      <stop offset="100%" stop-color="#242050"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="55%" stop-color="#4bd9d0"/>
+      <stop offset="100%" stop-color="#87a8ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity=".32"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#b8c4ff" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1020" cy="86" r="150" fill="#5b4dce" opacity=".11"/>
+  <circle cx="1100" cy="264" r="190" fill="#2fc8c0" opacity=".08"/>
+  <path d="M735 0C820 75 815 167 925 220S1100 260 1200 212" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M790 0C875 75 870 167 980 220S1155 260 1200 242" fill="none" stroke="url(#accent)" stroke-opacity=".2" stroke-width="2"/>
+  <rect x="64" y="48" width="8" height="220" rx="4" fill="url(#accent)"/>
+  <text x="100" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4" fill="#9ce8e2">SOFTWARE ENGINEER I</text>
+  <text x="96" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Yash Kesharwani</text>
+  <text x="100" y="211" font-family="Segoe UI, Arial, sans-serif" font-size="21" fill="#d0d7f5">Java · Spring Boot · Cloud &amp; DevOps</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
+    <rect x="100" y="236" width="105" height="32" rx="16" fill="#ffffff" fill-opacity=".08" stroke="#8f9cff" stroke-opacity=".65"/>
+    <text x="152.5" y="256.5" text-anchor="middle" fill="#e4e8ff">Backend</text>
+    <rect x="216" y="236" width="104" height="32" rx="16" fill="#ffffff" fill-opacity=".08" stroke="#65d6d0" stroke-opacity=".65"/>
+    <text x="268" y="256.5" text-anchor="middle" fill="#c8fff8">Automation</text>
+    <rect x="331" y="236" width="105" height="32" rx="16" fill="#ffffff" fill-opacity=".08" stroke="#a99aff" stroke-opacity=".65"/>
+    <text x="383.5" y="256.5" text-anchor="middle" fill="#e5e0ff">Problem Solving</text>
+  </g>
+  <g transform="translate(945 92)" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".88">
+    <path d="M0 20L22 42L0 64"/>
+    <path d="M48 64H88"/>
+    <path d="M110 20L88 42L110 64"/>
+    <rect x="-23" y="-20" width="156" height="104" rx="16" stroke-opacity=".35"/>
+    <circle cx="0" cy="0" r="3" fill="#9ce8e2" stroke="none"/>
+    <circle cx="13" cy="0" r="3" fill="#9ce8e2" stroke="none" opacity=".6"/>
+    <circle cx="26" cy="0" r="3" fill="#9ce8e2" stroke="none" opacity=".3"/>
+  </g>
+  <text x="1100" y="294" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#aab3df">PUNE, INDIA</text>
+</svg>
