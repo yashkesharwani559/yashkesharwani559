@@ -9,6 +9,10 @@
   <a href="mailto:yashkesharwani559@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashkesharwani559&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <h2 align="center">Software Engineer I · Cognizant · Pune, India</h2>
 
 <p align="center">
